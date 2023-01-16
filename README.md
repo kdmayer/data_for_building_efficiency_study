@@ -4,13 +4,15 @@ Please note that due to Google's licensing terms, we cannot provide you with the
 
 Please cite this work when using the data or its derivatives:
 
-    @misc{https://doi.org/10.48550/arxiv.2206.02270,
-      doi = {10.48550/ARXIV.2206.02270},
-      url = {https://arxiv.org/abs/2206.02270},
-      author = {Mayer, Kevin and Haas, Lukas and Huang, Tianyuan and Bernabé-Moreno, Juan and Rajagopal, Ram and Fischer, Martin},
-      keywords = {Computer Vision and Pattern Recognition (cs.CV), Artificial Intelligence (cs.AI), FOS: Computer and information sciences, FOS: Computer         and information sciences},
-      title = {Estimating building energy efficiency from street view imagery, aerial imagery, and land surface temperature data},
-      publisher = {arXiv},
-      year = {2022},
-      copyright = {arXiv.org perpetual, non-exclusive license}
+    @article{Mayer2022,
+    title = {Estimating building energy efficiency from street view imagery, aerial imagery, and land surface temperature data},
+    journal = {Applied Energy},
+    volume = {333},
+    pages = {120542},
+    year = {2023},
+    issn = {0306-2619},
+    doi = {https://doi.org/10.1016/j.apenergy.2022.120542},
+    url = {https://www.sciencedirect.com/science/article/pii/S0306261922017998},
+    author = {Kevin Mayer and Lukas Haas and Tianyuan Huang and Juan Bernabé-Moreno and Ram Rajagopal and Martin Fischer},
+    keywords = {Building energy efficiency, Decarbonization, Retrofitting, Remote sensing, End-to-end deep learning, Ablation study}
     }
