@@ -1,4 +1,4 @@
-## Public dataset for [Estimating building energy efficiency from street view imagery, aerial imagery, and land surface temperature data](https://arxiv.org/pdf/2206.02270.pdf)
+## Public dataset for [Estimating building energy efficiency from street view imagery, aerial imagery, and land surface temperature data](https://www.sciencedirect.com/science/article/pii/S0306261922017998)
 
 Please note that due to Google's licensing terms, we cannot provide you with the street view and aerial images. However, following the dataset creation process outlined in section 3.2 and 3.3, you can easily download them yourself from Google's Cloud Platform.
 
